@@ -1,3 +1,5 @@
+![RIC Logohttps://raw.githubusercontent.com/CraicOverflow89/RIC/master/resources/images/logo.png "RIC Logo")
+
 RIC Project
 ===========
 
