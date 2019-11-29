@@ -5,6 +5,10 @@ RIC Project
 
 Editor for [RIEM](https://github.com/CraicOverflow89/RIEM) projects.
 
+### Requirements
+
+ - screeninfo (install with pip `$pip install screeninfo` if you don't have it)
+
 ### Tasks
 
  - basic interfaces
