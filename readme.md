@@ -8,3 +8,7 @@ Editor for [RIEM](https://github.com/CraicOverflow89/RIEM) projects.
 ### Tasks
 
  - basic interfaces
+
+### Graphics
+
+- the RIC logo is comprised of free graphics from [cleanpng](https://www.cleanpng.com) and [cooltext](https://cooltext.com)
